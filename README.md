@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am currently a CS Ph.D. student working on 3D generation, AR/VR, and Human-Computer Interaction. I share the vision of Metaverse and am navigating my career towards it. 
+
+I am currently researching how to make users create 3D scenes more easily and with creativity. 
+I am also learning how humans draw diverse analogies, and how we can imitate that process to have machines create analogies (and especially 3D analogies) easily.
+
+Always welcome new collaborations and questions. Here are the ways to reach me:
+* [Email](mailto:swu85@ur.rochester.edu)
+* [LinkedIn](https://www.linkedin.com/in/shutong-wu-214043172/)
+
 <!--
 **Scriptwonder/Scriptwonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
